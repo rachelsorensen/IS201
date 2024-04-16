@@ -1,0 +1,45 @@
+.default_div {
+    position: absolute;
+    border: solid 1px orangered;
+    background-color: bisque;
+}
+.other_properties {
+    background-color:beige
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 50px;
+}
+
+.left_menu {
+    top: 64px;
+    left: 5px;
+    right: 314px;
+    bottom: 259px;
+    padding: 4px
+}
+
+/* .tableau { 
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 114px;
+} */
+
+.right_menu {
+    top: 64px;
+    right: 5px;
+    width: 292px;
+    bottom: 259px;
+    padding: 4px;
+}
+
+.footer{
+    top: 493px;
+    left: 5px;
+    right: 5px;
+    height: 245px;
+}

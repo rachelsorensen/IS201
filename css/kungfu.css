@@ -1,0 +1,43 @@
+h2{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-weight: bold;
+ color: darkred;
+
+}
+
+p {
+ font-family:'Times New Roman', Times, serif
+}
+
+ol {
+ font-family: 'Times New Roman', Times, serif;
+ color: rgb(51, 44, 98);
+}
+
+.special_textfirst {
+    font-family: 'Times New Roman', Times, serif;
+ color: rgb(51, 44, 98);
+}
+
+.special_text {
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(126, 12, 12);
+}
+
+h3 {
+ font-family: 'Courier New', Courier, monospace;
+ color:rgb(137, 49, 8)
+}
+
+h5 {
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(137, 49, 8)
+   }
+
+a:hover{
+    color: black;
+ }
+ a:visited{
+    color:rgb(192, 17, 17)
+ }
